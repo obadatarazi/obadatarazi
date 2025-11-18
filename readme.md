@@ -50,9 +50,9 @@ Larael
 ---
 
 ## 📈 GitHub Stats
-![Obada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true)
+![Obada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=obadatarazi&show_icons=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obadatarazi&layout=compact&hide_border=true)
 
 ---
 
