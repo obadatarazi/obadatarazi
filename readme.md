@@ -15,7 +15,7 @@ CMS:
 Wordpres
 
 Backend & Tools:  
-Node.js, Firebase, REST APIs, Git & GitHub
+Laravel, Firebase, REST APIs, Git & GitHub
 
 Other Skills:  
 Responsive Design, UI/UX basics, Deployment (Vercel / Netlify)
