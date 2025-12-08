@@ -4,7 +4,6 @@
 
 Passionate about building clean, fast, and modern web applications.  
 I enjoy creating efficient UI systems, working with APIs, and turning ideas into real products.  
-Currently improving my React skills and building a strong portfolio for my master's studies in Europe.
 
 ---
 
