@@ -10,6 +10,8 @@ Computer & Automation Engineering (BSc, Damascus University). Building since 202
 
 ### What I ship
 
+Live products (built under CupCoding — code on GitLab):
+
 | Product | What it is | Live |
 | --- | --- | --- |
 | **OffertaFix** | Moving marketplace: request → compare offers → pay | [offertafix.com](https://www.offertafix.com/) |
@@ -18,14 +20,33 @@ Computer & Automation Engineering (BSc, Damascus University). Building since 202
 | **Aroma Care** | Pharmacy MVP for Kuwait (storefront + admin + API) | [aromacarekw.com](https://aromacarekw.com/) |
 | **Caffè Bello** | EU coffee shop (EN/NL catalogue & bundles) | [caffebello.com](https://caffebello.com/) |
 
-Most CupCoding client delivery runs on **[GitLab @CupCoding](https://gitlab.com/CupCoding)** (private repos — Aroma Care, OffertaFix, VeroFund, and more). Public samples there: [`school-management`](https://gitlab.com/CupCoding/school-management), [`fire-management`](https://gitlab.com/CupCoding/fire-management).
+### CupCoding on GitLab
 
-Open-source / public builds on GitHub worth a look:
+Almost all client engineering lives on **[GitLab @CupCoding](https://gitlab.com/CupCoding)** (private by default — source stays with the studio). GitHub here is the public portfolio + a few open tools.
+
+| GitLab project | What it is | Live / note |
+| --- | --- | --- |
+| `aroma-care` | Pharmacy platform (Kuwait) | [aromacarekw.com](https://aromacarekw.com/) |
+| `Codeicator` | LMS + certificate verify | [codeicator.com](https://codeicator.com/) |
+| `Verofund` | Construction-finance marketplace | [verofund.io](https://verofund.io/) |
+| `Offerta Fix` | Moving marketplace | [offertafix.com](https://www.offertafix.com/) |
+| `LAT-WC26` | Client product build (CupCoding) | Private |
+| `school-requests-management-system` | School requests / admin flows | Private |
+| `school-management` | School management | [Public](https://gitlab.com/CupCoding/school-management) |
+| `Fire-Management` | Fire management system | [Public](https://gitlab.com/CupCoding/fire-management) |
+| `Link Tree NFC` | NFC link-tree product | Private |
+| `Robotics` | Robotics project | Private |
+| `To-Do-List` | Internal / practice app | Private |
+
+Activity graph for CupCoding work: [gitlab.com/CupCoding](https://gitlab.com/CupCoding) — not this GitHub calendar.
+
+### Also on GitHub (public)
 
 - [`shamcash-payments`](https://github.com/obadatarazi/shamcash-payments) — WooCommerce gateway for ShamCash (Syria)
-- [`ps-aboutyou-sync`](https://github.com/obadatarazi/ps-aboutyou-sync) — PrestaShop ↔ AboutYou sync (CLI, no heavy framework)
+- [`ps-aboutyou-sync`](https://github.com/obadatarazi/ps-aboutyou-sync) — PrestaShop ↔ AboutYou sync
 - [`stayle-more-pos`](https://github.com/obadatarazi/stayle-more-pos) — Store POS (React + PHP/MySQL API)
 - [`fireguard_backend`](https://github.com/obadatarazi/fireguard_backend) — Fire monitoring backend (grad project, 91/100)
+- [`yps-network-eu`](https://github.com/obadatarazi/yps-network-eu) — YPS Network EU · [euypsnet.org](https://euypsnet.org/)
 
 ---
 
