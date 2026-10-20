@@ -18,7 +18,9 @@ Computer & Automation Engineering (BSc, Damascus University). Building since 202
 | **Aroma Care** | Pharmacy MVP for Kuwait (storefront + admin + API) | [aromacarekw.com](https://aromacarekw.com/) |
 | **Caffè Bello** | EU coffee shop (EN/NL catalogue & bundles) | [caffebello.com](https://caffebello.com/) |
 
-Open-source / public builds worth a look:
+Most CupCoding client delivery runs on **[GitLab @CupCoding](https://gitlab.com/CupCoding)** (private repos — Aroma Care, OffertaFix, VeroFund, and more). Public samples there: [`school-management`](https://gitlab.com/CupCoding/school-management), [`fire-management`](https://gitlab.com/CupCoding/fire-management).
+
+Open-source / public builds on GitHub worth a look:
 
 - [`shamcash-payments`](https://github.com/obadatarazi/shamcash-payments) — WooCommerce gateway for ShamCash (Syria)
 - [`ps-aboutyou-sync`](https://github.com/obadatarazi/ps-aboutyou-sync) — PrestaShop ↔ AboutYou sync (CLI, no heavy framework)
@@ -33,7 +35,7 @@ Open-source / public builds worth a look:
 Backend     PHP · Laravel · Symfony · WordPress · REST · MySQL
 Frontend    React · TypeScript · Vue · Tailwind · i18n / RTL
 Commerce    WooCommerce · PrestaShop · Stripe · MyFatoorah · Apple Pay
-Delivery    GitHub · Agile scope · requirements briefs · client handover
+Delivery    GitLab (CupCoding) · GitHub · Agile scope · requirements briefs · client handover
 ```
 
 ---
@@ -61,6 +63,7 @@ Delivery    GitHub · Agile scope · requirements briefs · client handover
 - **Email:** [obadabodi@gmail.com](mailto:obadabodi@gmail.com)
 - **LinkedIn:** [linkedin.com/in/obada-tarazi](https://www.linkedin.com/in/obada-tarazi)
 - **Studio:** [cupcoding.com](https://cupcoding.com)
+- **GitLab (CupCoding):** [gitlab.com/CupCoding](https://gitlab.com/CupCoding)
 - **Open to work:** product + backend roles, freelance builds, long-term partnerships
 
 If you need someone who can own the brief *and* the build path — say hello.
