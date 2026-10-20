@@ -1,70 +1,66 @@
-# 👋 Hi, I'm Obada Al Tarazi
+# Obada Al Tarazi
 
-### 💻 Back-End Developer | Laravel | Web Applications | WordPress
+**Founder of [CupCoding](https://cupcoding.com)** · Product & backend · Live platforms across GCC & MENA
 
-Passionate about building clean, fast, and modern web applications.  
-I enjoy creating efficient UI systems, working with APIs, and turning ideas into real products.  
+I sit between business and engineering. Clients bring messy goals. I turn them into scoped products people can actually run — marketplaces, LMS, payments, bilingual EN/AR sites, and the APIs underneath.
 
----
-
-## 🚀 Tech Stack
-Languages:  
-JavaScript, TypeScript, HTML5, CSS3
-
-CMS:  
-Wordpres
-
-Backend & Tools:  
-Laravel, Firebase, REST APIs, Git & GitHub
-
-Other Skills:  
-Responsive Design, UI/UX basics, Deployment (Vercel / Netlify)
+Computer & Automation Engineering (BSc, Damascus University). Building since 2022.
 
 ---
 
-## 📂 Featured Projects
+### What I ship
 
-### 🔹 1. Personal Dashboard Web App
-Laravel
-- CRUD operations  
-- Clean folder structure  
-- Ready for front-end usage 
+| Product | What it is | Live |
+| --- | --- | --- |
+| **OffertaFix** | Moving marketplace: request → compare offers → pay | [offertafix.com](https://www.offertafix.com/) |
+| **VeroFund** | Construction finance: milestone funding & release | [verofund.io](https://verofund.io/) |
+| **Codeicator** | LMS + public certificate verify (code / URL / QR) | [codeicator.com](https://codeicator.com/) |
+| **Aroma Care** | Pharmacy MVP for Kuwait (storefront + admin + API) | [aromacarekw.com](https://aromacarekw.com/) |
+| **Caffè Bello** | EU coffee shop (EN/NL catalogue & bundles) | [caffebello.com](https://caffebello.com/) |
 
----
+Open-source / public builds worth a look:
 
-### 🔹 2. Smart To-Do Application
-Laravel
-- CRUD operations  
-- Clean folder structure  
-- Ready for front-end usage    
-
----
-
-### 🔹 3. Notes API (Backend Mini Project)
-Larael 
-- CRUD operations  
-- Clean folder structure  
-- Ready for front-end usage  
+- [`shamcash-payments`](https://github.com/obadatarazi/shamcash-payments) — WooCommerce gateway for ShamCash (Syria)
+- [`ps-aboutyou-sync`](https://github.com/obadatarazi/ps-aboutyou-sync) — PrestaShop ↔ AboutYou sync (CLI, no heavy framework)
+- [`stayle-more-pos`](https://github.com/obadatarazi/stayle-more-pos) — Store POS (React + PHP/MySQL API)
+- [`fireguard_backend`](https://github.com/obadatarazi/fireguard_backend) — Fire monitoring backend (grad project, 91/100)
 
 ---
 
-## 📈 GitHub Stats
-![Obada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=obadatarazi&show_icons=true&hide_border=true)
+### Stack I use day to day
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obadatarazi&layout=compact&hide_border=true)
-
----
-
-## 🌱 What I'm Working On
-- Building full-stack mini projects  
-- Strengthening React & Laravel 
----
-
-## 📫 Contact Me
-📧 Email: obadabodi@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/obada-tarazi
-🌐 Portfolio: https://cupcoding.com
+```text
+Backend     PHP · Laravel · Symfony · WordPress · REST · MySQL
+Frontend    React · TypeScript · Vue · Tailwind · i18n / RTL
+Commerce    WooCommerce · PrestaShop · Stripe · MyFatoorah · Apple Pay
+Delivery    GitHub · Agile scope · requirements briefs · client handover
+```
 
 ---
 
-⭐ Feel free to check my repositories and reach out if you'd like to collaborate!
+### How I work
+
+- **Clear MVP first.** Big vision gets cut into what ships now vs later.
+- **Specs engineers can build.** Not vague tickets — roles, payments, admin, public flows.
+- **Handover that sticks.** Training + docs so the client is not stuck calling the developer forever.
+- **Bilingual by default.** Arabic / English products for real MENA and GCC users.
+
+---
+
+### Stats
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=obadatarazi&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obadatarazi&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+### Contact
+
+- **Email:** [obadabodi@gmail.com](mailto:obadabodi@gmail.com)
+- **LinkedIn:** [linkedin.com/in/obada-tarazi](https://www.linkedin.com/in/obada-tarazi)
+- **Studio:** [cupcoding.com](https://cupcoding.com)
+- **Open to work:** product + backend roles, freelance builds, long-term partnerships
+
+If you need someone who can own the brief *and* the build path — say hello.
