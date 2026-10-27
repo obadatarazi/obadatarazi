@@ -1,90 +1,79 @@
-# Obada Al Tarazi
+# Hi, I'm Obada Al Tarazi (`@obadatarazi`)
 
-**Founder of [CupCoding](https://cupcoding.com)** · Product & backend · Live platforms across GCC & MENA
+**Founder of [CupCoding](https://cupcoding.com)** — product & backend builder (Laravel, WordPress, React).  
+Live products across **GCC & MENA**. Based in Damascus · working with regional clients.
 
-I sit between business and engineering. Clients bring messy goals. I turn them into scoped products people can actually run — marketplaces, LMS, payments, bilingual EN/AR sites, and the APIs underneath.
+This profile is curated for **portfolio, university, and scholarship review**.
 
-Computer & Automation Engineering (BSc, Damascus University). Building since 2022.
+## How to evaluate my work
 
----
+1. **Clone public code samples** below — real plugins, themes, and systems  
+2. **Read client showcases** for commercial projects (source private to protect IP)  
+3. Authorship on new portfolio commits: **Obada Al Tarazi** · co-author **CupCoding**
 
-### What I ship
-
-Live products (built under CupCoding — code on GitLab):
-
-| Product | What it is | Live |
-| --- | --- | --- |
-| **OffertaFix** | Moving marketplace: request → compare offers → pay | [offertafix.com](https://www.offertafix.com/) |
-| **VeroFund** | Construction finance: milestone funding & release | [verofund.io](https://verofund.io/) |
-| **Codeicator** | LMS + public certificate verify (code / URL / QR) | [codeicator.com](https://codeicator.com/) |
-| **Aroma Care** | Pharmacy MVP for Kuwait (storefront + admin + API) | [aromacarekw.com](https://aromacarekw.com/) |
-| **Caffè Bello** | EU coffee shop (EN/NL catalogue & bundles) | [caffebello.com](https://caffebello.com/) |
-
-### CupCoding on GitLab
-
-Almost all client engineering lives on **[GitLab @CupCoding](https://gitlab.com/CupCoding)** (private by default — source stays with the studio). GitHub here is the public portfolio + a few open tools.
-
-| GitLab project | What it is | Live / note |
-| --- | --- | --- |
-| `aroma-care` | Pharmacy platform (Kuwait) | [aromacarekw.com](https://aromacarekw.com/) |
-| `Codeicator` | LMS + certificate verify | [codeicator.com](https://codeicator.com/) |
-| `Verofund` | Construction-finance marketplace | [verofund.io](https://verofund.io/) |
-| `Offerta Fix` | Moving marketplace | [offertafix.com](https://www.offertafix.com/) |
-| `LAT-WC26` | Client product build (CupCoding) | Private |
-| `school-requests-management-system` | School requests / admin flows | Private |
-| `school-management` | School management | [Public](https://gitlab.com/CupCoding/school-management) |
-| `Fire-Management` | Fire management system | [Public](https://gitlab.com/CupCoding/fire-management) |
-| `Link Tree NFC` | NFC link-tree product | Private |
-| `Robotics` | Robotics project | Private |
-| `To-Do-List` | Internal / practice app | Private |
-
-Activity graph for CupCoding work: [gitlab.com/CupCoding](https://gitlab.com/CupCoding) — not this GitHub calendar.
-
-### Also on GitHub (public)
-
-- [`shamcash-payments`](https://github.com/obadatarazi/shamcash-payments) — WooCommerce gateway for ShamCash (Syria)
-- [`ps-aboutyou-sync`](https://github.com/obadatarazi/ps-aboutyou-sync) — PrestaShop ↔ AboutYou sync
-- [`stayle-more-pos`](https://github.com/obadatarazi/stayle-more-pos) — Store POS (React + PHP/MySQL API)
-- [`fireguard_backend`](https://github.com/obadatarazi/fireguard_backend) — Fire monitoring backend (grad project, 91/100)
-- [`yps-network-eu`](https://github.com/obadatarazi/yps-network-eu) — YPS Network EU · [euypsnet.org](https://euypsnet.org/)
+WordPress publications include **custom theme + custom plugins only** (never full WordPress core dumps).
 
 ---
 
-### Stack I use day to day
+## Featured public code
 
-```text
-Backend     PHP · Laravel · Symfony · WordPress · REST · MySQL
-Frontend    React · TypeScript · Vue · Tailwind · i18n / RTL
-Commerce    WooCommerce · PrestaShop · Stripe · MyFatoorah · Apple Pay
-Delivery    GitLab (CupCoding) · GitHub · Agile scope · requirements briefs · client handover
-```
+### Payments & PHP
+| Repo | What it is |
+|---|---|
+| [Sham-Cash-PHP-SDK](https://github.com/obadatarazi/Sham-Cash-PHP-SDK) | PHP SDK |
+| [shamcash-payments](https://github.com/obadatarazi/shamcash-payments) | Payments integration |
+| [ecash-gateway](https://github.com/obadatarazi/ecash-gateway) | WordPress eCash gateway plugin |
+
+### WordPress (theme + custom plugin only)
+| Repo | What it is |
+|---|---|
+| [syria-oil-wordpress](https://github.com/obadatarazi/syria-oil-wordpress) | National oil/gas portal theme + widgets |
+| [mastermove-wordpress](https://github.com/obadatarazi/mastermove-wordpress) | Brand theme + Elementor plugin |
+| [agt-wordpress](https://github.com/obadatarazi/agt-wordpress) | Marketing site theme + widgets |
+| [ihyaa-core](https://github.com/obadatarazi/ihyaa-core) | Ihyaa companion plugin |
+| [sendcloud-dynamic-checkout](https://github.com/obadatarazi/sendcloud-dynamic-checkout) | WooCommerce / Sendcloud checkout |
+| [spin-to-win-gift](https://github.com/obadatarazi/spin-to-win-gift) | Gamified promotions plugin |
+| [wc-review-importer](https://github.com/obadatarazi/wc-review-importer) | WooCommerce review importer |
+| [caffebello-geoip](https://github.com/obadatarazi/caffebello-geoip) | GeoIP storefront logic |
+
+### Full-stack & products
+| Repo | What it is |
+|---|---|
+| [iot-discovery](https://github.com/obadatarazi/iot-discovery) | IoT discovery — JS + Python + Swift |
+| [parkour_syria](https://github.com/obadatarazi/parkour_syria) | Community platform (web/admin/backend) |
+| [aurawave](https://github.com/obadatarazi/aurawave) | Ambient lighting product stack |
+| [lg-ambient-screen](https://github.com/obadatarazi/lg-ambient-screen) | LG / ambient screen work |
+| [yps-network-eu](https://github.com/obadatarazi/yps-network-eu) | YPS Network EU |
+| [stayle-more-pos](https://github.com/obadatarazi/stayle-more-pos) | Store Manager POS UI |
+| [librecrawl](https://github.com/obadatarazi/librecrawl) | Python crawling toolkit |
+| [tuna-gwaizi-website](https://github.com/obadatarazi/tuna-gwaizi-website) | Brand website |
+| [woobol](https://github.com/obadatarazi/woobol) | Woo/ecommerce tooling |
+| [sync-prestashop-aboutYou](https://github.com/obadatarazi/sync-prestashop-aboutYou) | PrestaShop ↔ AboutYou sync |
 
 ---
 
-### How I work
+## Client showcases (description only — no source download)
 
-- **Clear MVP first.** Big vision gets cut into what ships now vs later.
-- **Specs engineers can build.** Not vague tickets — roles, payments, admin, public flows.
-- **Handover that sticks.** Training + docs so the client is not stuck calling the developer forever.
-- **Bilingual by default.** Arabic / English products for real MENA and GCC users.
+Commercial systems. Role, stack, and dates are documented; **code stays private**.
 
----
+| Project | Summary |
+|---|---|
+| **Aroma Care** | Ecommerce: website + admin + Laravel backend (production) |
+| **VeroFund** | Fintech / escrow platform (website, dashboard, backend) |
+| **Offerta Fix** | Marketplace: web, dashboard, transport provider portals |
+| **DashMarketing sites** | Multi-brand marketing / corporate sites |
+| **Caffè Bello B2B** | Bilingual B2B inquiry portal |
 
-### Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=obadatarazi&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obadatarazi&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</p>
+*(Full case-study markdown is staged locally and will land in a `portfolio` hub repo once GitHub’s create-rate limit resets.)*
 
 ---
 
-### Contact
+## Stack
 
-- **Email:** [obadabodi@gmail.com](mailto:obadabodi@gmail.com)
-- **LinkedIn:** [linkedin.com/in/obada-tarazi](https://www.linkedin.com/in/obada-tarazi)
-- **Studio:** [cupcoding.com](https://cupcoding.com)
-- **GitLab (CupCoding):** [gitlab.com/CupCoding](https://gitlab.com/CupCoding)
-- **Open to work:** product + backend roles, freelance builds, long-term partnerships
+`Laravel` · `WordPress` · `WooCommerce` · `React` / `Node` · `PHP` · `Python` · `Swift` · `MySQL` · `GitLab CI` · Hostinger / VPS ops
 
-If you need someone who can own the brief *and* the build path — say hello.
+## Contact
+
+- GitHub: [@obadatarazi](https://github.com/obadatarazi)
+- Studio: [cupcoding.com](https://cupcoding.com)
+- Location: Damascus · GCC & MENA clients
