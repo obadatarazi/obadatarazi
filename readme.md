@@ -56,15 +56,14 @@ WordPress publications include **custom theme + custom plugins only** (never ful
 
 Commercial systems. Role, stack, and dates are documented; **code stays private**.
 
-| Project | Summary |
+| Project | Case study |
 |---|---|
-| **Aroma Care** | Ecommerce: website + admin + Laravel backend (production) |
-| **VeroFund** | Fintech / escrow platform (website, dashboard, backend) |
-| **Offerta Fix** | Marketplace: web, dashboard, transport provider portals |
-| **DashMarketing sites** | Multi-brand marketing / corporate sites |
-| **Caffè Bello B2B** | Bilingual B2B inquiry portal |
-
-*(Full case-study markdown is staged locally and will land in a `portfolio` hub repo once GitHub’s create-rate limit resets.)*
+| **Aroma Care** | [showcases/portfolio-aroma-care](./showcases/portfolio-aroma-care) |
+| **VeroFund** | [showcases/portfolio-verofund](./showcases/portfolio-verofund) |
+| **Offerta Fix** | [showcases/portfolio-offerta-fix](./showcases/portfolio-offerta-fix) |
+| **DashMarketing sites** | [showcases/portfolio-dashmarketing-sites](./showcases/portfolio-dashmarketing-sites) |
+| **Caffè Bello B2B** | [showcases/portfolio-caffebello-b2b](./showcases/portfolio-caffebello-b2b) |
+| **AuraWave** | [showcases/portfolio-aurawave](./showcases/portfolio-aurawave) · code: [aurawave](https://github.com/obadatarazi/aurawave) |
 
 ---
 
